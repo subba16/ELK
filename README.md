@@ -22,3 +22,4 @@ brew services start kibana
 >> elastic search
 brew services
 
+http://localhost:5601/
