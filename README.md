@@ -23,3 +23,6 @@ brew services start kibana
 brew services
 
 http://localhost:5601/
+
+>> springboot
+http://localhost:9898/
