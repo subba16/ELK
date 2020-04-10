@@ -19,10 +19,16 @@ logstash -f logstash.conf
 >> kibana
 brew services start kibana
 
+http://localhost:5601/
+
+
+
 >> elastic search
 brew services
+http://localhost:9200/logstash-2020.04.10/_search
+http://localhost:9200/_cat/indices
+http://localhost:9200/_cat
 
-http://localhost:5601/
 
 >> springboot
 http://localhost:9898/
