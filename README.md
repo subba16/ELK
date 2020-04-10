@@ -11,7 +11,6 @@ brew services start logstash
 
 >>Create log stash.conf and place it in bin folder
 >> run on Terminal
-— /usr/local/Cellar/logstash/7.6.2/bin
 /usr/local/Cellar/logstash/7.6.2/libexec/bin
 logstash -f logstash.conf
 
